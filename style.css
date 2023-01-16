@@ -2,3 +2,8 @@ html, body {
     height: 100%;
     background-image: linear-gradient(45deg,darkgray, lightgray);
 }
+
+img {
+    width: 250px;
+    height: 250px;
+}
